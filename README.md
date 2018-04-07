@@ -50,10 +50,8 @@ In this hour long session, we will walk through the two basic plugins that come 
 **[Plugins](http://codex.wordpress.org/Plugins)** are ways to extend and add to the functionality that already exists in **WordPress**. The core of **WordPress** is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. **Plugins ** offer custom functions and features so that each user can tailor their site to their specific needs. 
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) What is the difference between a theme and a plugin? It is common to find cross-over between features found in themes and plugins. However, best practices are:
-
 > *   a theme controls the presentation of content; whereas
 > *   a plugin is used to control the behavior and features of your WordPress site.
-
 > Any theme you create should not add critical functionality. Doing so means that when a user changes their theme, they lose access to that functionality. For example, say you build a theme with a portfolio feature. Users who build their portfolio with your feature will lose it when they change themes. By moving critical features to plugins, you make it possible for the design of your website to change, while the functionality remains the same.[/tip]
 
 ### Examples of Types of Plugins
