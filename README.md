@@ -45,16 +45,21 @@ In this hour long session, we will walk through the two basic plugins that come 
 
 ### What is a Plugin and What Can They Do?
 
-[![plugin_directory](https://make.wordpress.org/training/files/2014/11/plugin_directory.png)](https://make.wordpress.org/training/files/2014/11/plugin_directory.png) **[Plugins](http://codex.wordpress.org/Plugins)** are ways to extend and add to the functionality that already exists in **WordPress**. The core of **WordPress** is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. **Plugins ** offer custom functions and features so that each user can tailor their site to their specific needs [tip]What is the difference between a theme and a plugin? It is common to find cross-over between features found in themes and plugins. However, best practices are:
+![plugin_directory](/images/plugin_directory.png)
 
-*   a theme controls the presentation of content; whereas
-*   a plugin is used to control the behavior and features of your WordPress site.
+**[Plugins](http://codex.wordpress.org/Plugins)** are ways to extend and add to the functionality that already exists in **WordPress**. The core of **WordPress** is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. **Plugins ** offer custom functions and features so that each user can tailor their site to their specific needs. 
 
-Any theme you create should not add critical functionality. Doing so means that when a user changes their theme, they lose access to that functionality. For example, say you build a theme with a portfolio feature. Users who build their portfolio with your feature will lose it when they change themes. By moving critical features to plugins, you make it possible for the design of your website to change, while the functionality remains the same.[/tip]
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) What is the difference between a theme and a plugin? It is common to find cross-over between features found in themes and plugins. However, best practices are:
+> *   a theme controls the presentation of content; whereas
+> *   a plugin is used to control the behavior and features of your WordPress site.  
+>  
+> Any theme you create should not add critical functionality. Doing so means that when a user changes their theme, they lose access to that functionality. For example, say you build a theme with a portfolio feature. Users who build their portfolio with your feature will lose it when they change themes. By moving critical features to plugins, you make it possible for the design of your website to change, while the functionality remains the same.
 
 ### Examples of Types of Plugins
 
-![browsing-plugins](http://make.wordpress.org/training/files/2014/11/browsing-plugins.png) Plugins provide a wide variety of functionality to your WordPress site that does not exist in the WordPress core application. Some examples of different types of plugins include:
+![browsing-plugins](/images/browsing-plugins.png) 
+
+Plugins provide a wide variety of functionality to your WordPress site that does not exist in the WordPress core application. Some examples of different types of plugins include:
 
 *   SEO
 *   Backup
@@ -66,7 +71,9 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Default Plugins: Akismet and Hello Dolly
 
-![default-plugins](http://make.wordpress.org/training/files/2014/11/default-plugins.png) There are two plugins that come with WordPress by default: [Akismet](https://wordpress.org/plugins/akismet/), an anti-spam plugin, and [Hello Dolly](https://wordpress.org/plugins/hello-dolly/), an example of a really simple plugin. Akismet checks your comments against the Akismet Web service to see if they look like spam or not and allows you review the spam it catches under your blog's "Comments" admin screen. When Hello Dolly is activated, you will randomly see a lyric from "Hello, Dolly", as famously sung by Louis Armstrong, in the upper right of your admin screen on every page.
+![default-plugins](/images/default-plugins.png) 
+
+There are two plugins that come with WordPress by default: [Akismet](https://wordpress.org/plugins/akismet/), an anti-spam plugin, and [Hello Dolly](https://wordpress.org/plugins/hello-dolly/), an example of a really simple plugin. Akismet checks your comments against the Akismet Web service to see if they look like spam or not and allows you review the spam it catches under your blog's "Comments" admin screen. When Hello Dolly is activated, you will randomly see a lyric from "Hello, Dolly", as famously sung by Louis Armstrong, in the upper right of your admin screen on every page.
 
 *   Go to Plugins from the Dashboard menu.
 *   Locate "Akismet", and click on the "Activate" link below the name.
@@ -78,7 +85,9 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Evaluating New Plugins
 
-![evaulating-plugins](http://make.wordpress.org/training/files/2014/11/evaulating-plugins.png) [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. All plugins have been reviewed and approved per the plugin guidelines as outlined in [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin). When evaluating new plugins for use on your site, it is important that you locate and review the below standard information provided for each plugin in the WordPress Plugin Directory. Plugins may also be purchased through other sources, make sure to thoroughly research outside plugins yourself as they may not follow the same safe guidelines that the WordPress Foundation uses to screen the plugins that they make available.
+![evaulating-plugins](/images/evaulating-plugins.png) 
+
+The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. All plugins have been reviewed and approved per the plugin guidelines as outlined in [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin). When evaluating new plugins for use on your site, it is important that you locate and review the below standard information provided for each plugin in the WordPress Plugin Directory. Plugins may also be purchased through other sources, make sure to thoroughly research outside plugins yourself as they may not follow the same safe guidelines that the WordPress Foundation uses to screen the plugins that they make available.
 
 *   Star Rating
 *   Last Updated
@@ -89,7 +98,9 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Automatically Installing a Plugin from the Plugin Directory
 
-![install-plugin](http://make.wordpress.org/training/files/2014/11/install-plugin.png) The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://http://codex.wordpress.org/WordPress_Backups).
+![install-plugin](/images/install-plugin.png) 
+
+The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://http://codex.wordpress.org/WordPress_Backups).
 
 *   Go to **Plugins > Add New** on the Dashboard menu
 *   Search for the plugin name or type, or browse one of the categories or tags.
@@ -99,7 +110,9 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Installing a Plugin via External Zip File
 
-![upload-plugin](http://make.wordpress.org/training/files/2014/11/upload-plugin.png) When you purchase plugins from vendors outside of WordPress, the author should provide you with a .zip file that can be installed through the Dashboard. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://codex.wordpress.org/WordPress_Backups).
+![upload-plugin](/images/upload-plugin.png) 
+
+When you purchase plugins from vendors outside of WordPress, the author should provide you with a .zip file that can be installed through the Dashboard. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://codex.wordpress.org/WordPress_Backups).
 
 *   Download [PinkifyIt Plugin](https://downloads.wordpress.org/plugin/pinkify-it.zip) as a .zip file and save to your desktop
 *   Go to **Plugins > Add New** on the Dashboard menu
@@ -109,11 +122,17 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Troubleshooting Plugins
 
-![wordpress-errors](http://make.wordpress.org/training/files/2014/11/wordpress-errors.png) There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the  installed plugins or an installed plugin being incompatible with the current WordPress version. If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors).
+![wordpress-errors](/images/wordpress-errors.png) 
+
+There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the  installed plugins or an installed plugin being incompatible with the current WordPress version. 
+
+If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors).
 
 ### Providing Feedback, Reviews, and Ratings
 
-![reviews](http://make.wordpress.org/training/files/2014/11/reviews.png) The best way to improve and help plugin authors make better plugins is to provide feedback by leaving a review and a star rating.
+![reviews](/images/reviews.png) 
+
+The best way to improve and help plugin authors make better plugins is to provide feedback by leaving a review and a star rating.
 
 1.  Go to the Plugin Directory located at https://wordpress.org/plugins/
 2.  Sign in on the upper top-right with your WordPress.org credentials
@@ -123,7 +142,9 @@ Any theme you create should not add critical functionality. Doing so means that 
 
 ### Getting Help in the WordPress.org Plugin Support Forums
 
-![support](http://make.wordpress.org/training/files/2014/11/support.png) Each plugin in the WordPress Plugin Directory has a support forum to ask questions about using or configuring the plugin. Please be courteous and thorough when posting questions, as the plugin author is a volunteer and may have other priorities.
+![support](/images/support.png) 
+
+Each plugin in the WordPress Plugin Directory has a support forum to ask questions about using or configuring the plugin. Please be courteous and thorough when posting questions, as the plugin author is a volunteer and may have other priorities.
 
 1.  Go to the Plugin Directory located at https://wordpress.org/plugins/.
 2.  Sign in on the upper top-right with your WordPress.org credentials.
@@ -161,14 +182,14 @@ Answer: 5\. All of the above.   **When looking for plugins in the WordPress Plu
 4.  Author information
 5.  All of the above
 
-Answer: 5\. All of the above. **What should you do <span style="text-decoration: underline">before</span> installing a new plugin?**
+Answer: 5\. All of the above. **What should you do BEFORE installing a new plugin?**
 
 1.  Leave a star rating and review for the plugin
 2.  Backup your site files and database
 3.  Deactivate all other plugins
 4.  Activate the default theme
 
-Answer: 2\. Backup your site files and database. **What should you do <span style="text-decoration: underline">after</span> installing a new plugin?**
+Answer: 2\. Backup your site files and database. **What should you do AFTER installing a new plugin?**
 
 1.  Leave a star rating and review for the plugin
 2.  Backup your site files and database
