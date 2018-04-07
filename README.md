@@ -45,7 +45,7 @@ In this hour long session, we will walk through the two basic plugins that come 
 
 ### What is a Plugin and What Can They Do?
 
-![plugin_directory](/images/plugin_directory.png)
+![plugin-directory](/images/plugin-directory.png)
 
 **[Plugins](http://codex.wordpress.org/Plugins)** are ways to extend and add to the functionality that already exists in **WordPress**. The core of **WordPress** is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. **Plugins ** offer custom functions and features so that each user can tailor their site to their specific needs. 
 
