@@ -8,12 +8,11 @@ In this lesson you will learn about the almost 56,000 free plugins in the [offic
 
 After completing this lesson, participants will be able to:
 
-*   Identify the purpose of a plugin.
+*   Identify the purpose of a plugin
 *   Assess a plugin based on the evaluation criteria
 *   Demonstrate how to install plugins automatically from the WordPress Plugin Directory or from a provided zip file and activate the plugins
-*   Demonstrate how to leave a star rating and review for a plugin.
-*   Demonstrate how to search for and create a new topic in the plugin support forum.
-
+*   Demonstrate how to leave a star rating and review for a plugin
+*   Demonstrate how to search for and create a new topic in the plugin support forum
 
 ## Target Audience
 
@@ -42,7 +41,7 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 * [ ] Discussion
 * [X] Exercises
 * [ ] Feedback
-* [ ] Lecture (Presentation)
+* [X] Lecture (Presentation)
 * [X] Show & Tell
 * [ ] Tutorial
 
@@ -68,6 +67,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Materials Needed
 
+*   Slides: [Choosing and Installing Plugins](slides/index.html)
 *   A local install of WordPress
 *   [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.1.9.1.zip)
 
@@ -91,12 +91,19 @@ Participants will get the most from this lesson if they have familiarity with:
 * Demonstrate how to activate the default plugins
 * List out the criteria when evaluating a plugin
 * Demonstrate how to install a plugin using WordPress Plugin Directory and from a provided zip file
-* Introduce WordPress.org Plugin support forum 
+* Introduce WordPress.org Plugin support forum
 * Practice exercises to have participants find and install a plugin on their own site
 
 
 ## Exercises
 
+**Activate Hello Dolly**
+
+Practice activating Hello Dolly.
+
+*   Locate Hello Dolly on the Plugin screen
+*   Activate the plugin
+*   Refresh admin screen and locate the lyric
 
 **Activate Akismet**
 
@@ -106,13 +113,6 @@ Practice activating Akismet and configuring the plugin.
 *   Activate the plugin
 *   Setup Akismet account and configure Akismet key
 
-**Activate Hello Dolly**
-
-Practice activating Hello Dolly.
-
-*   Locate Hello Dolly on the Plugin screen
-*   Activate the plugin
-*   Refresh admin screen and locate the lyric
 
 **Install a plugin from Plugin Directory**
 
@@ -156,7 +156,7 @@ Practice leaving a star rating and review for a plugin.
 4.  Pull in data from other social media sites
 5.  All of the above
 
-**Answer:** 5\. All of the above. 
+**Answer:** 5\. All of the above.
 
 **When looking for plugins in the WordPress Plugin Directory, what information should you pay attention to?**
 
@@ -166,7 +166,7 @@ Practice leaving a star rating and review for a plugin.
 4.  Author information
 5.  All of the above
 
-**Answer:** 5\. All of the above. 
+**Answer:** 5\. All of the above.
 
 **What should you do BEFORE installing a new plugin?**
 
@@ -175,7 +175,7 @@ Practice leaving a star rating and review for a plugin.
 3.  Deactivate all other plugins
 4.  Activate the default theme
 
-**Answer:** 2\. Backup your site files and database. 
+**Answer:** 2\. Backup your site files and database.
 
 **What should you do AFTER installing a new plugin?**
 
@@ -184,7 +184,7 @@ Practice leaving a star rating and review for a plugin.
 3.  Deactivate all other plugins
 4.  Activate the default theme
 
-**Answer:** 1\. Leave a star rating and review for the plugin. 
+**Answer:** 1\. Leave a star rating and review for the plugin.
 
 **Besides installing the plugin, what do you need to do to run a new plugin?**
 
@@ -211,7 +211,7 @@ In this hour long session, we will walk through the two basic plugins that come 
 
 ![plugin-directory](/images/plugin-directory.png)
 
-[Plugins](http://codex.wordpress.org/Plugins) are ways to extend and add to the functionality that already exists in WordPress. The core of WordPress is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. Plugins offer custom functions and features so that each user can tailor their site to their specific needs. 
+[Plugins](http://codex.wordpress.org/Plugins) are ways to extend and add to the functionality that already exists in WordPress. The core of WordPress is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. Plugins offer custom functions and features so that each user can tailor their site to their specific needs.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) What is the difference between a theme and a plugin? It is common to find cross-over between features found in themes and plugins. However, best practices are:
 > *   a theme controls the presentation of content; whereas
@@ -221,7 +221,7 @@ In this hour long session, we will walk through the two basic plugins that come 
 
 ### Examples of Types of Plugins
 
-![browsing-plugins](/images/browsing-plugins.png) 
+![browsing-plugins](/images/browsing-plugins.png)
 
 Plugins provide a wide variety of functionality to your WordPress site that does not exist in the WordPress core application. Some examples of different types of plugins include:
 
@@ -235,7 +235,7 @@ Plugins provide a wide variety of functionality to your WordPress site that does
 
 ### Default Plugins: Akismet and Hello Dolly
 
-![default-plugins](/images/default-plugins.png) 
+![default-plugins](/images/default-plugins.png)
 
 There are two plugins that come with WordPress by default: [Akismet](https://wordpress.org/plugins/akismet/), an anti-spam plugin, and [Hello Dolly](https://wordpress.org/plugins/hello-dolly/), an example of a really simple plugin.
 
@@ -256,9 +256,9 @@ When Hello Dolly is activated, you will randomly see a lyric from "Hello, Dolly"
 
 ### Evaluating New Plugins
 
-![evaulating-plugins](/images/evaulating-plugins.png) 
+![evaulating-plugins](/images/evaulating-plugins.png)
 
-The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. All plugins have been reviewed and approved per the plugin guidelines as outlined in [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin). 
+The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. All plugins have been reviewed and approved per the plugin guidelines as outlined in [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin).
 
 When evaluating new plugins for use on your site, it is important that you locate and review the below standard information provided for each plugin in the WordPress Plugin Directory. Plugins may also be purchased through other sources, make sure to thoroughly research outside plugins yourself as they may not follow the same safe guidelines that the WordPress Foundation uses to screen the plugins that they make available.
 
@@ -271,7 +271,7 @@ When evaluating new plugins for use on your site, it is important that you locat
 
 ### Automatically Installing a Plugin from the Plugin Directory
 
-![install-plugin](/images/install-plugin.png) 
+![install-plugin](/images/install-plugin.png)
 
 The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://http://codex.wordpress.org/WordPress_Backups).
 
@@ -283,7 +283,7 @@ The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and
 
 ### Installing a Plugin via External Zip File
 
-![upload-plugin](/images/upload-plugin.png) 
+![upload-plugin](/images/upload-plugin.png)
 
 When you purchase plugins from vendors outside of WordPress, the author should provide you with a .zip file that can be installed through the Dashboard. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://codex.wordpress.org/WordPress_Backups).
 
@@ -291,21 +291,21 @@ When you purchase plugins from vendors outside of WordPress, the author should p
 
 *   Download [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.1.9.1.zip) as a .zip file and save to your desktop
 *   Go to **Plugins > Add New** on the Dashboard menu.
-*   Click on **Upload Plugin** blue button at the top of the page.
+*   Click on the blue **Upload Plugin** button at the top of the page.
 *   Click the **Choose File** button and browse to the desktop and select the .zip file.
 *   Click the **Install Now** button, then click on the **Activate** button.
 
 ### Troubleshooting Plugins
 
-![wordpress-errors](/images/wordpress-errors.png) 
+![wordpress-errors](/images/wordpress-errors.png)
 
-There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the  installed plugins or an installed plugin being incompatible with the current WordPress version. 
+There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the  installed plugins or an installed plugin being incompatible with the current WordPress version.
 
 If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors).
 
 ### Providing Feedback, Reviews, and Ratings
 
-![reviews](/images/reviews.png) 
+![reviews](/images/reviews.png)
 
 The best way to improve and help plugin authors make better plugins is to provide feedback by leaving a review and a star rating.
 
@@ -313,12 +313,12 @@ The best way to improve and help plugin authors make better plugins is to provid
 1.  Go to the Plugin Directory located at https://wordpress.org/plugins/.
 2.  Sign in on the upper top-right with your WordPress.org credentials.
 3.  Search for the plugin name that you would like to leave feedback for or get help with.
-4.  If you need help or have a problem with a plugin, click on the **View support forum** green button on the right side of the plugin listing or the **Support** tab to visit the plugin support forum.
+4.  If you need help or have a problem with a plugin, click on the green **View support forum** button on the right side of the plugin listing or the **Support** tab to visit the plugin support forum.
 5.  To leave a star rating, you must also leave a review. Locate on the right side where it says, **Ratings** and click on **Add my review** button below. A form will be presented with information to leave a review and a star rating on that plugin.
 
 ### Getting Help in the WordPress.org Plugin Support Forums
 
-![support](/images/support.png) 
+![support](/images/support.png)
 
 Each plugin in the WordPress Plugin Directory has a support forum to ask questions about using or configuring the plugin. Please be courteous and thorough when posting questions, as the plugin author is a volunteer and may have other priorities.
 
@@ -335,5 +335,3 @@ Each plugin in the WordPress Plugin Directory has a support forum to ask questio
 ### Lesson Wrap Up
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
-
-
