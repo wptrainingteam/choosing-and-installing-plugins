@@ -55,7 +55,7 @@ How long will it take to teach this lesson (in minutes)?
 
 Participants will get the most from this lesson if they have familiarity with:
 
-*   Basic [WordPress Administration](https://make.wordpress.org/training/handbook/user-lessons/basic-wordpress-concepts/)
+*   [Basic WordPress Administration](https://make.wordpress.org/training/handbook/user-lessons/basic-wordpress-concepts/)
 
 ## Readiness Questions
 
