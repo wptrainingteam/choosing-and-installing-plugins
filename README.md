@@ -69,7 +69,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 *   Slides: [Choosing and Installing Plugins](slides/index.html)
 *   A local install of WordPress
-*   [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.1.9.1.zip)
+*   [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.zip)
 
 
 ## Notes for the Instructor
@@ -289,7 +289,7 @@ When you purchase plugins from vendors outside of WordPress, the author should p
 
 #### Installing Instagram Feed Plugin via External Zip File
 
-*   Download [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.1.9.1.zip) as a .zip file and save to your desktop
+*   Download [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.zip) as a .zip file and save to your desktop
 *   Go to **Plugins > Add New** on the Dashboard menu.
 *   Click on the blue **Upload Plugin** button at the top of the page.
 *   Click the **Choose File** button and browse to the desktop and select the .zip file.
