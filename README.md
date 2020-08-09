@@ -76,7 +76,7 @@ Participants will get the most from this lesson if they have familiarity with:
 *   [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.zip)
 
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 *   The lesson should alternate between short lectures and live demos. You as the teacher need a working local WordPress installation for the demos, as well as an internet connection to install new plugins.
 *   With the exceptions of the exercises, students should not be working on their site during lectures and demos. Questions from students will be very specific to their case, so it’s better to plan a period where they can test things on their site and you answer their questions individually.
