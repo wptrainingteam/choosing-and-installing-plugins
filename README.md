@@ -65,9 +65,13 @@ Participants will get the most from this lesson if they have familiarity with:
 *   Is there something special you would like to do with your WordPress website?
 
 
+## Slides
+
+*   [Choosing and Installing Plugins](slides/index.html)
+
+
 ## Materials Needed
 
-*   Slides: [Choosing and Installing Plugins](slides/index.html)
 *   A local install of WordPress
 *   [Instagram Feed Plugin](https://downloads.wordpress.org/plugin/instagram-feed.zip)
 
