@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn about the almost 56,000 free plugins in the [official WordPress.org Plugin Directory](https://wordpress.org/plugins "WordPress Plugin Directory"), as well as thousands more in the commercial space. This lesson will give you the tools needed to thoroughly evaluate, install, and choose the most appropriate plugin(s) for your site(s) along with resources on how to get help with plugins.  
+In this lesson, you will learn about the almost 56,000 free plugins in the [official WordPress.org Plugin Directory](https://wordpress.org/plugins "WordPress Plugin Directory"), as well as thousands more in the commercial space. This lesson will give you the tools needed to thoroughly evaluate, install, and choose the most appropriate plugin(s) for your site(s) along with resources on how to get help with plugins.  
 
 ## Objectives
 
@@ -120,7 +120,7 @@ Practice activating Akismet and configuring the plugin.
 
 **Install a plugin from Plugin Directory**
 
-Practice installing a plugin from Plugin directory.
+Practice installing a plugin from the Plugin directory.
 
 *   Go to Add Plugins screen
 *   Search for a plugin
@@ -209,7 +209,7 @@ Practice leaving a star rating and review for a plugin.
 
 ### Introduction
 
-In this hour long session, we will walk through the two basic plugins that come with WordPress, Akismet and Hello Dolly. We'll also cover how to find and install a new plugin through the dashboard, how to evaluate a new plugin for use on your site, how to provide feedback and how to get help with a plugin through the WordPress.org support forums.
+In this hour-long session, we will walk through the two basic plugins that come with WordPress, Akismet and Hello Dolly. We'll also cover how to find and install a new plugin through the dashboard, how to evaluate a new plugin for use on your site, how to provide feedback, and how to get help with a plugin through the WordPress.org support forums.
 
 ### What is a Plugin and What Can They Do?
 
@@ -243,7 +243,7 @@ Plugins provide a wide variety of functionality to your WordPress site that does
 
 There are two plugins that come with WordPress by default: [Akismet](https://wordpress.org/plugins/akismet/), an anti-spam plugin, and [Hello Dolly](https://wordpress.org/plugins/hello-dolly/), an example of a really simple plugin.
 
-Akismet checks your comments against the Akismet Web service to see if they look like spam or not and allows you review the spam it catches under your blog's "Comments" admin screen.
+Akismet checks your comments against the Akismet Web service to see if they look like spam or not and allows you to review the spam it catches under your blog's "Comments" admin screen.
 
 When Hello Dolly is activated, you will randomly see a lyric from "Hello, Dolly", as famously sung by Louis Armstrong, in the upper right of your admin screen on every page.
 
@@ -303,7 +303,7 @@ When you purchase plugins from vendors outside of WordPress, the author should p
 
 ![wordpress-errors](/images/wordpress-errors.png)
 
-There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the  installed plugins or an installed plugin being incompatible with the current WordPress version.
+There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the installed plugins or an installed plugin being incompatible with the current WordPress version.
 
 If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors).
 
