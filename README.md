@@ -211,11 +211,11 @@ Practice leaving a star rating and review for a plugin.
 
 In this hour-long session, we will walk through the two basic plugins that come with WordPress, Akismet and Hello Dolly. We'll also cover how to find and install a new plugin through the dashboard, how to evaluate a new plugin for use on your site, how to provide feedback, and how to get help with a plugin through the WordPress.org support forums.
 
-### What is a Plugin and What Can They Do?
+### What are plugins and what can they do?
 
 ![plugin-directory](/images/plugin-directory.png)
 
-[Plugins](http://codex.wordpress.org/Plugins) are ways to extend and add to the functionality that already exists in WordPress. The core of WordPress is designed to be lean and lightweight, to maximize flexibility and minimize code bloat. Plugins offer custom functions and features so that each user can tailor their site to their specific needs.
+[Plugins](https://wordpress.org/support/article/plugins/) provide a way to extend and add to the functionality that already exists in WordPress.. The core of WordPress is designed to be lean and lightweight, to maximize flexibility and to minimize code bloat. Plugins offer custom functions and features so that each user can tailor their site to their specific needs.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) What is the difference between a theme and a plugin? It is common to find cross-over between features found in themes and plugins. However, best practices are:
 > *   a theme controls the presentation of content; whereas
@@ -264,7 +264,7 @@ When Hello Dolly is activated, you will randomly see a lyric from "Hello, Dolly"
 
 The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. All plugins have been reviewed and approved per the plugin guidelines as outlined in [Writing a Plugin](http://codex.wordpress.org/Writing_a_Plugin).
 
-When evaluating new plugins for use on your site, it is important that you locate and review the below standard information provided for each plugin in the WordPress Plugin Directory. Plugins may also be purchased through other sources, make sure to thoroughly research outside plugins yourself as they may not follow the same safe guidelines that the WordPress Foundation uses to screen the plugins that they make available.
+When evaluating new plugins for use on your site, it is important that you locate and review the below standard information provided for each plugin in the WordPress Plugin Directory. Plugins may also be purchased through other sources, make sure to thoroughly research outside plugins yourself as they may not follow the same safe guidelines that the WordPress Repository uses to screen the plugins that they make available.
 
 *   Star Rating
 *   Last Updated
@@ -277,7 +277,7 @@ When evaluating new plugins for use on your site, it is important that you locat
 
 ![install-plugin](/images/install-plugin.png)
 
-The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups](http://http://codex.wordpress.org/WordPress_Backups).
+The [WordPress Plugin Directory](https://wordpress.org/plugins/) is the best and safest place to get free plugins. Before installing a new plugin, it is a best practice to make a full backup of your website, as some plugins could cause your site to become inoperable. See [WordPress Backups]( https://wordpress.org/support/article/wordpress-backups/).
 
 *   Go to **Plugins > Add New** on the Dashboard menu.
 *   Search for the plugin name or type, or browse one of the categories or tags.
@@ -305,7 +305,7 @@ When you purchase plugins from vendors outside of WordPress, the author should p
 
 There may be instances when you activate a new plugin and it breaks your site, i.e. your site will either start acting ‘strangely’, the plugin doesn’t function the way it’s supposed to, or you get the "white screen of death" and you are not able to access your site from the front end or back end. The reasons for that may be a conflict between the installed plugins or an installed plugin being incompatible with the current WordPress version.
 
-If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](http://codex.wordpress.org/Common_WordPress_Errors).
+If that happens don't worry, there are a few common troubleshooting techniques that will allow you to determine the cause of the misbehavior and reverse its effects. For more information, see [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/).
 
 ### Providing Feedback, Reviews, and Ratings
 
