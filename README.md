@@ -202,7 +202,7 @@ Practice leaving a star rating and review for a plugin.
 
 ## Additional Resources
 
-* [Managing Plugins](https://codex.wordpress.org/Managing_Plugins) @ Codex
+* [Managing Plugins](https://wordpress.org/support/article/managing-plugins/) @ Codex
 
 ## Example Lesson
 
